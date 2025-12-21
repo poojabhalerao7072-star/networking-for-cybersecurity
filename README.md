@@ -4,14 +4,12 @@ A beginner-friendly networking fundamentals series with a strong cybersecurity f
 designed to build clear conceptual understanding through structured explanations,
 real-world examples, and security relevance.
 
----
 
 ## 📌 About This Repository
 This repository documents my step-by-step learning of networking concepts
 that are essential for cybersecurity roles. The focus is on understanding
 how networks work and how security threats and defenses relate to them.
 
----
 
 ## Topics Covered
 - Networking basics and network types
@@ -21,7 +19,6 @@ how networks work and how security threats and defenses relate to them.
 - Core networking protocols
 - Networking tools and security concepts
 
----
 
 ##  Purpose
 To build a strong networking foundation for cybersecurity roles such as:
@@ -30,7 +27,6 @@ To build a strong networking foundation for cybersecurity roles such as:
 - Cybersecurity Trainee
 - Ethical Hacking Beginner
 
----
 
 ## Learning Approach
 - Simple explanations
@@ -38,7 +34,6 @@ To build a strong networking foundation for cybersecurity roles such as:
 - Cybersecurity-oriented perspective
 - Continuous improvement and updates
 
----
 
 ## 🛠 Tools & Concepts (Planned)
 - Cisco Packet Tracer
