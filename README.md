@@ -5,7 +5,7 @@ designed to build clear conceptual understanding through structured explanations
 real-world examples, and security relevance.
 
 
-## 📌 About This Repository
+## About This Repository
 This repository documents my step-by-step learning of networking concepts
 that are essential for cybersecurity roles. The focus is on understanding
 how networks work and how security threats and defenses relate to them.
@@ -35,7 +35,7 @@ To build a strong networking foundation for cybersecurity roles such as:
 - Continuous improvement and updates
 
 
-## 🛠 Tools & Concepts (Planned)
+## Tools & Concepts (Planned)
 - Cisco Packet Tracer
 - Wireshark
 - Nmap
