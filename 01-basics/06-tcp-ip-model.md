@@ -5,6 +5,8 @@
 The TCP/IP (Transmission Control Protocol / Internet Protocol) Model is a practical networking model used for real-world communication over the internet. It defines how data is transmitted, routed, and received across networks.
 
 
+![image alt](https://github.com/poojabhalerao7072-star/networking-for-cybersecurity/blob/b22d752af8de5840a73b6554cd38316951ef18ba/01-basics/TCP-IP_Model.png)
+
 ## TCP/IP Model Layers and Functions
 
 ### 4️⃣ Application Layer
