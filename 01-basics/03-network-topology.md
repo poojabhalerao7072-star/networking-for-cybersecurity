@@ -72,7 +72,7 @@ Used in:
 - Combination of multiple topologies
 - Flexible and scalable
 
-![Network Topology Diagram](net topology.png)
+![Network Topology Diagram](https://github.com/poojabhalerao7072-star/networking-for-cybersecurity/blob/4b236f3fdc2b62f64f3500e6f4fda47e646c9a55/01-basics/net%20topology.png)
 
 ## Physical vs Logical Topology
 | Physical | Logical |
