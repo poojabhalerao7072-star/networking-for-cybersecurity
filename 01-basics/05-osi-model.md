@@ -6,7 +6,7 @@ The **OSI (Open Systems Interconnection) Model** is a **7-layer conceptual frame
 It standardizes communication functions so that different systems and vendors can communicate effectively.
 In cybersecurity, the OSI model helps identify **where attacks occur** and **which security controls should be applied**.
 
-![image alt](https://github.com/poojabhalerao7072-star/networking-for-cybersecurity/blob/fd1c8f0aeff33e998a54089cbdcbf0489eaeba8d/osi-model-slide1.png)
+![image alt](https://github.com/poojabhalerao7072-star/networking-for-cybersecurity/blob/06217e0c071aa9a63f6ebfd2991a53ccf7750254/01-basics/osi-model-slide1.png)
 
 ## OSI Model Layers and Their Main Functions
 
