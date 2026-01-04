@@ -36,7 +36,6 @@ To build a strong networking foundation for cybersecurity roles such as:
 
 
 ## Tools & Concepts (Planned)
-- Cisco Packet Tracer
 - Wireshark
 - Nmap
 - Kali Linux networking tools
